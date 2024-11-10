@@ -1,0 +1,19 @@
+{
+  "name": "projeto_web_pgats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lilyan Lacerda",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
